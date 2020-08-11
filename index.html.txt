@@ -3,7 +3,7 @@
   <head>
     <title>
 <p>
-      A  SuperCyber defense magazine
+      A  Cyber defense magazine
 </p>
     </title>
   </head>
